@@ -59,6 +59,6 @@ INSERT INTO frequenze(alunno_id, materia_id, media, ore_assenza) VALUES
  (1, 2, 8, 0),
  (2, 1, 7.1, 5),
  (2, 3, 9.1, 0),
- (12, 4,6, 6.1, 1);
+ (12, 4, 6, 6.1);
 
 
